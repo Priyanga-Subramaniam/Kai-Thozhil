@@ -1,0 +1,13 @@
+ <!--<li><a class='prett' href='#' title='Menu'>Diploma</a>
+      <ul class='menus'>
+        <li class='has-submenu'><a class='prett' href='' title='Dropdown 1'>Dropdown1 </a>
+          <ul class='submenu'>
+            <li><a href="#" title="Sub Menu">Sub Menu</a></li>
+            <li><a href="#" title="Sub Menu">Sub Menu 2</a></li>
+            <li><a href="#" title="Sub Menu">Sub Menu 3</a></li>
+          </ul>
+        </li>
+        <li><a href="mech.html" title='Dropdown 2'>Mechanical</a></li>
+        <li><a href='#' title='Dropdown 3'>Dropdown 3</a></li>
+      </ul>
+    </li>-->
